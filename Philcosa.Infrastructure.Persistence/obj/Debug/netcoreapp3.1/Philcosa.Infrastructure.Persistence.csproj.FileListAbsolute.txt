@@ -1,0 +1,14 @@
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.deps.json
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Application.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Application.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Philcosa.Domain.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.csproj.CopyComplete
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Persistence.pdb

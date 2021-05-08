@@ -1,0 +1,17 @@
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.deps.json
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.runtimeconfig.json
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.runtimeconfig.dev.json
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Application.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Application.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\bin\Debug\netcoreapp3.1\Philcosa.Domain.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.csprojAssemblyReference.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.AssemblyInfoInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.AssemblyInfo.cs
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.csproj.CopyComplete
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Identity\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Identity.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Dev\Philcosa\Philcosa.Application\bin\Debug\netstandard2.1\Philcosa.Application.deps.json
+D:\Dev\Philcosa\Philcosa.Application\bin\Debug\netstandard2.1\Philcosa.Application.dll
+D:\Dev\Philcosa\Philcosa.Application\bin\Debug\netstandard2.1\Philcosa.Application.pdb
+D:\Dev\Philcosa\Philcosa.Application\bin\Debug\netstandard2.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Application\bin\Debug\netstandard2.1\Philcosa.Domain.pdb
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.csprojAssemblyReference.cache
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.AssemblyInfoInputs.cache
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.AssemblyInfo.cs
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.csproj.CoreCompileInputs.cache
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.csproj.CopyComplete
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.dll
+D:\Dev\Philcosa\Philcosa.Application\obj\Debug\netstandard2.1\Philcosa.Application.pdb

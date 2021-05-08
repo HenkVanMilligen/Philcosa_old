@@ -1,0 +1,9 @@
+D:\Dev\Philcosa\Philcosa.Domain\bin\Debug\netstandard2.1\Philcosa.Domain.deps.json
+D:\Dev\Philcosa\Philcosa.Domain\bin\Debug\netstandard2.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Domain\bin\Debug\netstandard2.1\Philcosa.Domain.pdb
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.csprojAssemblyReference.cache
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.AssemblyInfoInputs.cache
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.AssemblyInfo.cs
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Domain\obj\Debug\netstandard2.1\Philcosa.Domain.pdb

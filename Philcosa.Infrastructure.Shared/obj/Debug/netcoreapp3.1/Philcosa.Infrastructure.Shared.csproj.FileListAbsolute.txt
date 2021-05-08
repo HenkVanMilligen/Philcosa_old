@@ -1,0 +1,14 @@
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.deps.json
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Application.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Domain.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Application.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Philcosa.Domain.pdb
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.AssemblyInfo.cs
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.csproj.CopyComplete
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.dll
+D:\Dev\Philcosa\Philcosa.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Philcosa.Infrastructure.Shared.pdb
