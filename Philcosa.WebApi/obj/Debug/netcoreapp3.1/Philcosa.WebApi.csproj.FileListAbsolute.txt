@@ -191,3 +191,4 @@ D:\Dev\Philcosa\Philcosa.WebApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCo
 D:\Dev\Philcosa\Philcosa.WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\Dev\Philcosa\Philcosa.WebApi\obj\Debug\netcoreapp3.1\Philcosa.WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Dev\Philcosa\Philcosa.WebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Dev\Philcosa\Philcosa.WebApi\bin\Debug\netcoreapp3.1\CsvHelper.dll

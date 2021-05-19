@@ -11,5 +11,7 @@ namespace Philcosa.Domain.Entities
     {
         public string Name { get; set; }
         public string Code { get; set; }
+
+        public Postcard Postcard { get; set; }
     }
 }

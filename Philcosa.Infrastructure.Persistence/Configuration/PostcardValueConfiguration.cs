@@ -13,8 +13,7 @@ namespace Philcosa.Infrastructure.Persistence.Configuration
     {
         public void Configure(EntityTypeBuilder<PostcardValue> builder)
         {
-            
-            builder.HasData(
+            builder.HasData(                   
                     new PostcardValue
                     {
                         Id = 1,

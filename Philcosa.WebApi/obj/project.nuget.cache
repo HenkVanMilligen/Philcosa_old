@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oAYhJqQF6mzIqVAyjmR/T64jENMVDyy467IvXfCK34GjU1IAJMunYMQAD5jFSbBSmcHvtkt6GvdE7cygWilsVQ==",
+  "dgSpecHash": "Rn3uoZErpo1ivaPAXMdK50v863gmYzoXl6ZixI4OiTfUBEKMX+vInuJe8VBowcVHXtQt4Y4dGoemscAd4jVJzQ==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Philcosa\\Philcosa.WebApi\\Philcosa.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henk\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Henk\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.1.2\\fluentvalidation.aspnetcore.9.1.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.1.2\\fluentvalidation.dependencyinjectionextensions.9.1.2.nupkg.sha512",

@@ -29,6 +29,18 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "CsvHelper/27.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/CsvHelper.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {}
+        }
+      },
       "FluentValidation/9.1.2": {
         "type": "package",
         "compile": {
@@ -3503,6 +3515,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "CsvHelper": "27.0.2",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.7",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.7",
@@ -3566,6 +3579,28 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "CsvHelper/27.0.2": {
+      "sha512": "BXIM6epjyGh0C73L6t4+EPl1kNiMSIkjkgNXco6USKmO8Dqa+Zw/vujYJwP9S/s51iaR7zZ90mQKHfp/iLfv6A==",
+      "type": "package",
+      "path": "csvhelper/27.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.27.0.2.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net45/CsvHelper.dll",
+        "lib/net45/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net5.0/CsvHelper.dll",
+        "lib/net5.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
       ]
     },
     "FluentValidation/9.1.2": {
@@ -10840,7 +10875,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

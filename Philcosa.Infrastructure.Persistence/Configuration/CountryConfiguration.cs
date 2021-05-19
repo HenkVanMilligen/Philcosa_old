@@ -22,7 +22,7 @@ namespace Philcosa.Infrastructure.Persistence.Configuration
                         CreatedBy = "DataSeed",
                         LastModified = null,
                         LastModifiedBy = null,
-                        Name = "Venda"
+                        Name = "Venda",
                     },
                     new Country
                     {

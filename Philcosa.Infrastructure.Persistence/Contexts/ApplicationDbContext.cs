@@ -19,14 +19,22 @@ namespace Philcosa.Infrastructure.Persistence.Contexts
         private readonly IDateTimeService _dateTime;
         private readonly IAuthenticatedUserService _authenticatedUser;
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseNpgsql(@"Server=127.0.0.1; port=5432; user id=philcosa-user; password=philcosa_P@ssword14; database=PhilcosaDb; pooling=true");
+        }
+        public ApplicationDbContext()
+        {
+            
+        }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IDateTimeService dateTime, IAuthenticatedUserService authenticatedUser) : base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
             _dateTime = dateTime;
             _authenticatedUser = authenticatedUser;
         }
-        public DbSet<Product> Products { get; set; }
         public DbSet<Postcard> Postcards { get; set; }
+        public DbSet<Theme> Themes { get; set; }
         public DbSet<PostcardTheme> PostcardThemes { get; set; }
         public DbSet<PostcardType> PostcardTypes { get; set; }
         public DbSet<PostcardValue> PostcardValues { get; set; }
@@ -65,8 +73,10 @@ namespace Philcosa.Infrastructure.Persistence.Contexts
             builder.ApplyConfiguration(new CountryConfiguration());
             builder.ApplyConfiguration(new PostcardTypeConfiguration());
             builder.ApplyConfiguration(new PostcardValueConfiguration());
+            builder.ApplyConfiguration(new ThemeConfiguration());
+            builder.ApplyConfiguration(new IssuedByEntityConfiguration());
             builder.ApplyConfiguration(new PostcardThemeConfiguration());
-
+            //builder.ApplyConfiguration(new PostcardConfiguration());
             base.OnModelCreating(builder);
         }
     }

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Philcosa.Infrastructure.Persistence/1.1.0": {
         "dependencies": {
+          "CsvHelper": "27.0.2",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.7",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.7",
@@ -44,6 +45,17 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.1.0"
+          }
+        }
+      },
+      "CsvHelper/27.0.2": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "27.0.0.0",
+            "fileVersion": "27.0.2.0"
           }
         }
       },
@@ -1145,6 +1157,13 @@
       "sha512": "sha512-hhUzmc8Ld7wCuVHJFodsxtPmFqBAhB6nUNQUgaMF3uamQdxOLxntG0dwv+5ApC67GABa8Oay8MEYGg5IgVZP1Q==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.0.1",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512"
+    },
+    "CsvHelper/27.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BXIM6epjyGh0C73L6t4+EPl1kNiMSIkjkgNXco6USKmO8Dqa+Zw/vujYJwP9S/s51iaR7zZ90mQKHfp/iLfv6A==",
+      "path": "csvhelper/27.0.2",
+      "hashPath": "csvhelper.27.0.2.nupkg.sha512"
     },
     "FluentValidation/9.1.2": {
       "type": "package",

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Cy4zZSvrBruCTvQ9GqUQI3nIdxCCEGrg9VVGT9Dk6Evmrv7+Dd0x9bingCktpUURICd50LvKcgH7kNVBguz4GQ==",
+  "dgSpecHash": "JMHTpIq7G1NaY3ew5gzqbEb5aMlADIJAxvw5W2FOU0iS3qPan4McJkZWUXvhrF3lH3nZxDlXOcLIgMYSu0zDUg==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Philcosa\\Philcosa.Infrastructure.Persistence\\Philcosa.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henk\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Henk\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.1.2\\fluentvalidation.dependencyinjectionextensions.9.1.2.nupkg.sha512",
     "C:\\Users\\Henk\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",

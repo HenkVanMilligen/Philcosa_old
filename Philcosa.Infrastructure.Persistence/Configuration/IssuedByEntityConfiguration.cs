@@ -16,8 +16,7 @@ namespace Philcosa.Infrastructure.Persistence.Configuration
         public void Configure(EntityTypeBuilder<IssuedByEntity> builder)
         {
             string seedFolder = Directory.GetParent(Directory.GetCurrentDirectory()).FullName + "\\Philcosa.Infrastructure.Persistence\\Seeds\\";
-            string file = Path.Combine(seedFolder, "IssuedByEntity.csv");
-            Console.WriteLine("IssuedByEntity seed location: " + file);
+            string file = Path.Combine(seedFolder, "IssuedByEntities.csv");
 
             var dictionary = new List<string>();
             using (var rd = new StreamReader(file))
@@ -26,7 +25,7 @@ namespace Philcosa.Infrastructure.Persistence.Configuration
                 {
                     var splits = rd.ReadLine().Split(',');
                     //string clean is done with Regex
-                    dictionary.Add(Regex.Replace(splits[0], "[^A-Za-z0-9 ]", ""));
+                    dictionary.Add(Regex.Replace(splits[0], "[^A-Za-z0-9() ]", ""));
                 }
             }
 
@@ -36,6 +35,17 @@ namespace Philcosa.Infrastructure.Persistence.Configuration
             {
                 if (String.IsNullOrEmpty(entity))
                     continue;
+
+                //string code;
+                //if (entity.Contains('('))
+                //{
+                //    code = entity.Split().Where(x => x.StartsWith("(") && x.EndsWith(")")).SingleOrDefault().ToUpper();
+                //    entity.Remove()
+                //}
+                //else
+                //{
+                //    code = string.Join("", entity.Split(' ').Select(s => s[0].ToString().ToUpper()));
+                //}
 
                 list.Add(new IssuedByEntity
                 {

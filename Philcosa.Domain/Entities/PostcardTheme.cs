@@ -7,10 +7,13 @@ using System.Threading.Tasks;
 
 namespace Philcosa.Domain.Entities
 {
-    public class PostcardTheme : AuditableBaseEntity
-    {
-        public string Name { get; set; }
+    public class PostcardTheme 
+    {        
+        public int PostcardId { get; set; }
+        public Postcard Postcard { get; set; }
 
-        public virtual ICollection<Postcard> Postcards { get; set; }
+        public int ThemeId { get; set; }
+        public Theme Theme { get; set; }
+
     }
 }

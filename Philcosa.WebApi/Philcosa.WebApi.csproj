@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Authors>Mukesh Murugan</Authors>
-    <Company>codewithmukesh</Company>
-    <RepositoryUrl>https://github.com/iammukeshm/CleanArchitecture.WebApi</RepositoryUrl>
+    <Authors>Henk van Milligen</Authors>
+    <Company>HenkTye</Company>
+    <RepositoryUrl>https://github.com/HenkVanMilligen/Philcosa</RepositoryUrl>
     <RepositoryType>Public</RepositoryType>
-    <PackageProjectUrl>https://www.codewithmukesh.com/project/aspnet-core-webapi-clean-architecture/</PackageProjectUrl>
+    <PackageProjectUrl></PackageProjectUrl>
     <Version>1.1.0</Version>
   </PropertyGroup>
 

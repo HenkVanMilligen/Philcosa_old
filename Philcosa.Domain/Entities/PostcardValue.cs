@@ -13,7 +13,9 @@ namespace Philcosa.Domain.Entities
 
         //public Collectable Collectable { get; set; }
         public string Code { get; set; }
-        public decimal MinValue { get; set; }
+        public decimal? MinValue { get; set; }
         public decimal? MaxValue { get; set; }
+        
+        public Postcard Postcard { get; set; }
     }
 }
